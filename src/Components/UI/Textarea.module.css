@@ -1,0 +1,13 @@
+.text {
+  width: 90%;
+  border: none;
+  padding-right: 10px;
+  border-radius: 5px;
+  resize: none;
+  height: 5rem;
+  border: solid 1px black;
+}
+
+h4 {
+  margin: 0.5rem 0;
+}
